@@ -1,3 +1,3 @@
-This repo is renamed to: [Asphocarp/nodex](https://github.com/Asphocarp/nodex)
+This repo is renamed to: [junyudev/nodex](https://github.com/junyudev/nodex)
 
-Clone URL: `git@github.com:Asphocarp/nodex.git`
+Clone URL: `git@github.com:junyudev/nodex.git`
